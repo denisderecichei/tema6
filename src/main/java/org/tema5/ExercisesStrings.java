@@ -10,11 +10,6 @@ public class ExercisesStrings {
     private static Random random = new Random();
 
     public static void main(String[] args) {
-        //ex1();
-//        ex2("M");
-//        ex3();
-//        ex4();
-//        ex5();
         ex6();
     }
 
