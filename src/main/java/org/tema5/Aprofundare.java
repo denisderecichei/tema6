@@ -48,6 +48,7 @@ public class Aprofundare {
         for (int current: array) {
             System.out.print(current);
             System.out.print(" ");
+            System.out.println("ADAUGAT DIN GIT");
         }
     }
 }
